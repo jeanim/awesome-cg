@@ -16,8 +16,6 @@ Awesome CG art
 - [创建一个列表](create-list.md)
 - [交流](http://cgxyz.org)
 
-输入 [`awesome.cg`](https://awesome.cg) 可跳转到这里 ✨
-
 ## 目录
 
 - [文学理论](#platforms)
