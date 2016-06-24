@@ -14,7 +14,7 @@ Awesome CG art
 - [什么是CG-Awesome?](awesome.md)
 - [贡献指南](contributing.md)
 - [创建一个列表](create-list.md)
-- [交流](http://cgxyz.org)
+- [交流]()
 
 ## 目录
 
