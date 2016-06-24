@@ -34,6 +34,7 @@ Awesome CG art
 - [剪辑](#editor)
 - [IT技术](#it)
 - [书籍](#book)
+- [网站](#web)
 - [院校](#school)
 
 ## 版权归属
