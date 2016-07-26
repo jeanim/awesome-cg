@@ -33,6 +33,7 @@ Awesome CG art
 - [IT技术](#it)
 - [书籍](#book)
 - [网站](#web)
+- [行业](#industry)
 - [院校](#school)
 
 ## 版权归属
